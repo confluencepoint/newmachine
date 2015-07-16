@@ -7,6 +7,9 @@ echo "export HOMEBREW_CASK_OPTS=\"--appdir=/Applications\"" >> ~/.bash_profile
 # Install some handy python packages
 sudo easy_install Pygments thefuck
 
+# Bundler
+sudo gem install bundle
+
 # Install brew packages
 brew install \
 tree \
