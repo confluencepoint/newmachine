@@ -4,6 +4,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Set homebrew cask opts
 echo "export HOMEBREW_CASK_OPTS=\"--appdir=/Applications\"" >> ~/.bash_profile
 
+# Install some handy python packages
+sudo easy_install Pygments thefuck
+
 # Install brew packages
 brew install \
 tree \
@@ -16,7 +19,6 @@ colordiff \
 imagemagick \
 graphicsmagick \
 ack \
-
 
 # Install brew cask
 brew install caskroom/cask/brew-cask
