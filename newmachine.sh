@@ -36,6 +36,7 @@ alfred \
 bartender \
 dropbox \
 google-chrome \
+paparazzi \
 plex-home-theater \
 plug \
 qlstephen \
