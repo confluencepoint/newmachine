@@ -49,6 +49,7 @@ sketch-tool \
 skype \
 spectacle \
 spotify \
+stay \
 steam \
 sublime-text3 \
 tower \
