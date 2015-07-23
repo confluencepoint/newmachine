@@ -35,6 +35,7 @@ airfoil \
 alfred \
 bartender \
 dropbox \
+flash \
 google-chrome \
 jadengeller-helium \
 paparazzi \
