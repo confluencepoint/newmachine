@@ -36,6 +36,7 @@ alfred \
 bartender \
 dropbox \
 google-chrome \
+jadengeller-helium \
 paparazzi \
 plex-home-theater \
 plug \
