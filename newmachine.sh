@@ -35,10 +35,8 @@ airfoil \
 alfred \
 bartender \
 dropbox \
-flash \
 google-chrome \
-jadengeller-helium \
-paparazzi \
+keepingyouawake \
 plex-home-theater \
 plug \
 qlstephen \
